@@ -325,15 +325,15 @@ margin-bottom: 0;
 .footer__column-links {
   margin: 20px 0 16px 0;
   padding: 0;
+  list-style: none;
 }
 
 .footer__column-link {
-  list-style: none;
+  text-decoration: none;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   color: #fff;
-  text-decoration: none;
   margin: 0;
 }
 
