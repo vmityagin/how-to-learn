@@ -217,8 +217,9 @@ margin-bottom: 0;
   background-position: left bottom;
   background-size: 867px 637px;
   background-color:  #f2f2f2;
+  box-sizing: border-box;
   padding-top: 100px;
-  min-height: 790px;
+  min-height: 890px;
   position: relative;
 }
 
@@ -277,16 +278,17 @@ margin-bottom: 0;
 }
 
 .footer {
-  margin: 0 auto;
-  padding: 60px 0 40px 0;
   background-color: #1f1f1f;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 60px 0 40px 0;
   min-height: 350px;
+  display: flex;
 }
 
 .footer__columns {
-  min-height: 350px;
   width: 90%;
-  margin: 60px auto 40px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
