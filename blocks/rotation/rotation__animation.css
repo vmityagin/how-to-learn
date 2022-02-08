@@ -1,0 +1,3 @@
+.rotation__animation {
+  animation: rotation__keyframes linear 20s infinite;
+}
