@@ -1,4 +1,4 @@
-@import url('../blocks/rotation/rotation_keyframes.css');
+@import url('../blocks/rotation/rotation.css');
 @import url('../vendor/normalize.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/header/header.css');
@@ -8,7 +8,6 @@
 @import url('../blocks/header/__subtitle/header__subtitle.css');
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
-@import url('../blocks/rotation/rotation__animation.css');
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/description/description.css');
 @import url('../blocks/two-columns/two-columns.css');
