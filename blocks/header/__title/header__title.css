@@ -1,4 +1,5 @@
 .header__title {
+  margin: 0 auto;
   max-width: 730px;
   display: flex;
   align-items: center;
